@@ -1,1 +1,1 @@
-# AUT-group-data-analysis-report-
+This data analysis report was done as part of an group assignment for the COMP517 paper. It is based on a datset that contains information of employees at a certain company. We were able to analyze, visualize, clean and interpret this data and derive some meaningful insights on the employee performances. 
